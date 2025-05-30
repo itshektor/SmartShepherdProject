@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartShepherdAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb75b13ab37087b62bb4eb1354cc649633056cdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c40b2377d607af3d8ff793804b6bd0114d7088")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartShepherdAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartShepherdAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
