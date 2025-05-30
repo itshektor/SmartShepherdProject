@@ -6,7 +6,7 @@ namespace SmartShepherdAPI.Models
         public int Id { get; set; }
         public double PH { get; set; }
         public double Moisture { get; set; }
-        public string CropType { get; set; }
+        public string? CropType { get; set; }
         public DateTime Timestamp { get; set; }
     }
 

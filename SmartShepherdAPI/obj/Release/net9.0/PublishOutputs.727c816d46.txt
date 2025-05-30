@@ -1,0 +1,11 @@
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\SmartShepherdAPI.exe
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\out\web.config
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\appsettings.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\out\appsettings.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\out\SmartShepherdAPI.deps.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\out\SmartShepherdAPI.runtimeconfig.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\out\SmartShepherdAPI.staticwebassets.endpoints.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\SmartShepherdAPI.dll
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\SmartShepherdAPI.deps.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\SmartShepherdAPI.runtimeconfig.json
+C:\Users\adria\Source\Repos\SmartShepherdProject\SmartShepherdAPI\out\SmartShepherdAPI.pdb

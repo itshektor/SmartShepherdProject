@@ -1,0 +1,2752 @@
+{
+  "Version": 1,
+  "Hash": "CdeU6OxTOgDp8IezXhvNYQN7dAslaSllUr6YzfDRkzo=",
+  "Source": "SmartShepherdAPI",
+  "BasePath": "_content/SmartShepherdAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SmartShepherdAPI\\wwwroot",
+      "Source": "SmartShepherdAPI",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\bynqclwtkv-8yux5wr3l0.gz",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "index#[.{fingerprint=8yux5wr3l0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6oxs8clgns",
+      "Integrity": "il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\in29ko3l01-fycosn15dn.gz",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "soil#[.{fingerprint=fycosn15dn}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soil.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pwdiqm6dli",
+      "Integrity": "6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soil.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\nivu4za7zm-zyorig3otw.gz",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "marketplace#[.{fingerprint=zyorig3otw}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\marketplace.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1felpo62rs",
+      "Integrity": "w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\marketplace.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\q8831o32r4-ft7n4w146m.gz",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "css/style#[.{fingerprint=ft7n4w146m}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mhwbaccxu8",
+      "Integrity": "OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\s3rd71tdpo-k9ek2ex8wa.gz",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "weather#[.{fingerprint=k9ek2ex8wa}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ouigdfadqd",
+      "Integrity": "kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\automaticfeed.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "automaticfeed#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbx82ev5or",
+      "Integrity": "s8RM7x+Lvj4Dd5aHDRMgX8PuUxgQnweksCbG2BveXVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\automaticfeed.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\css\\style.css",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ft7n4w146m",
+      "Integrity": "rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\drone.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "drone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mp6osk2uu4",
+      "Integrity": "BryEKu5W14mxkpjhaJF2PwNSNbATYYX7Xl3/WnSUgm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\drone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\farmingbackground.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "farmingbackground#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yxyng6x6qz",
+      "Integrity": "WneYN92e69m7CACxNgwRmcKhwas1glOPu3NzjNDCYTU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\farmingbackground.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\getintouch.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "getintouch#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6jcoxrmwxm",
+      "Integrity": "csLa8EG4/Qw6dtvz4f1djoBelOJ3BHtn1QlF+0Vykeo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\getintouch.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Grey Vintage Farm Logo.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "Grey Vintage Farm Logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nqsctyphag",
+      "Integrity": "gQ5xVY76GPyF9gw+IAFLqPJSxJFGAm50xzcWtycxx3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Grey Vintage Farm Logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\herdtracker.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "herdtracker#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b0to01du9i",
+      "Integrity": "25ws3txttEttUoy46/dIws3JM7qe4YDl4ZyLscB5G2Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\herdtracker.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\index.html",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8yux5wr3l0",
+      "Integrity": "8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\marketplace.html",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "marketplace#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zyorig3otw",
+      "Integrity": "K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\marketplace.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\smarteartags.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "smarteartags#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "959qdvdbpn",
+      "Integrity": "M7YwQDpMFXe0cd8A3Qu0eV0z0HgAVObQkYBWW46K4Mc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\smarteartags.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soil.html",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "soil#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fycosn15dn",
+      "Integrity": "l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\soil.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soilsensor.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "soilsensor#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ud5kmsemqz",
+      "Integrity": "Qn4ulCjDsbsmBT5fcqiTB8Stkvh6mmMyrb3m5ENFe1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\soilsensor.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Solarwater.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "Solarwater#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hibz3um13l",
+      "Integrity": "CeA1saqlH0MMpCuhQSrmk8m+tfrlVTRUOwVOBY/wRVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Solarwater.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.html",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "weather#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9ek2ex8wa",
+      "Integrity": "OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weather.html"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.jpg",
+      "SourceId": "SmartShepherdAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\",
+      "BasePath": "_content/SmartShepherdAPI",
+      "RelativePath": "weather#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o693b3lybo",
+      "Integrity": "QPgHBdHxS+JrYDPWT6Few6f2GsojrKI5lKz2lnJusms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\weather.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "automaticfeed.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\automaticfeed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s8RM7x+Lvj4Dd5aHDRMgX8PuUxgQnweksCbG2BveXVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s8RM7x+Lvj4Dd5aHDRMgX8PuUxgQnweksCbG2BveXVI="
+        }
+      ]
+    },
+    {
+      "Route": "automaticfeed.nbx82ev5or.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\automaticfeed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s8RM7x+Lvj4Dd5aHDRMgX8PuUxgQnweksCbG2BveXVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbx82ev5or"
+        },
+        {
+          "Name": "label",
+          "Value": "automaticfeed.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s8RM7x+Lvj4Dd5aHDRMgX8PuUxgQnweksCbG2BveXVI="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\q8831o32r4-ft7n4w146m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512032770"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\q8831o32r4-ft7n4w146m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ft7n4w146m.css",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\q8831o32r4-ft7n4w146m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512032770"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft7n4w146m"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ft7n4w146m.css",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft7n4w146m"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWQ+UHS9NTWWK6riRcPG0a2+qJ2i+WH67wmsQqqX9AU="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ft7n4w146m.css.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\q8831o32r4-ft7n4w146m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ft7n4w146m"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OnMx8flwHeA0oBlPLylreT4sNXBJ3QjFzc1cqJKcqCw="
+        }
+      ]
+    },
+    {
+      "Route": "drone.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\drone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BryEKu5W14mxkpjhaJF2PwNSNbATYYX7Xl3/WnSUgm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BryEKu5W14mxkpjhaJF2PwNSNbATYYX7Xl3/WnSUgm4="
+        }
+      ]
+    },
+    {
+      "Route": "drone.mp6osk2uu4.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\drone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BryEKu5W14mxkpjhaJF2PwNSNbATYYX7Xl3/WnSUgm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mp6osk2uu4"
+        },
+        {
+          "Name": "label",
+          "Value": "drone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BryEKu5W14mxkpjhaJF2PwNSNbATYYX7Xl3/WnSUgm4="
+        }
+      ]
+    },
+    {
+      "Route": "farmingbackground.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\farmingbackground.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2415663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WneYN92e69m7CACxNgwRmcKhwas1glOPu3NzjNDCYTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WneYN92e69m7CACxNgwRmcKhwas1glOPu3NzjNDCYTU="
+        }
+      ]
+    },
+    {
+      "Route": "farmingbackground.yxyng6x6qz.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\farmingbackground.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2415663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WneYN92e69m7CACxNgwRmcKhwas1glOPu3NzjNDCYTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxyng6x6qz"
+        },
+        {
+          "Name": "label",
+          "Value": "farmingbackground.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WneYN92e69m7CACxNgwRmcKhwas1glOPu3NzjNDCYTU="
+        }
+      ]
+    },
+    {
+      "Route": "getintouch.6jcoxrmwxm.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\getintouch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"csLa8EG4/Qw6dtvz4f1djoBelOJ3BHtn1QlF+0Vykeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6jcoxrmwxm"
+        },
+        {
+          "Name": "label",
+          "Value": "getintouch.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-csLa8EG4/Qw6dtvz4f1djoBelOJ3BHtn1QlF+0Vykeo="
+        }
+      ]
+    },
+    {
+      "Route": "getintouch.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\getintouch.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"csLa8EG4/Qw6dtvz4f1djoBelOJ3BHtn1QlF+0Vykeo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-csLa8EG4/Qw6dtvz4f1djoBelOJ3BHtn1QlF+0Vykeo="
+        }
+      ]
+    },
+    {
+      "Route": "Grey Vintage Farm Logo.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Grey Vintage Farm Logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQ5xVY76GPyF9gw+IAFLqPJSxJFGAm50xzcWtycxx3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQ5xVY76GPyF9gw+IAFLqPJSxJFGAm50xzcWtycxx3g="
+        }
+      ]
+    },
+    {
+      "Route": "Grey Vintage Farm Logo.nqsctyphag.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Grey Vintage Farm Logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gQ5xVY76GPyF9gw+IAFLqPJSxJFGAm50xzcWtycxx3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqsctyphag"
+        },
+        {
+          "Name": "label",
+          "Value": "Grey Vintage Farm Logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gQ5xVY76GPyF9gw+IAFLqPJSxJFGAm50xzcWtycxx3g="
+        }
+      ]
+    },
+    {
+      "Route": "herdtracker.b0to01du9i.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\herdtracker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"25ws3txttEttUoy46/dIws3JM7qe4YDl4ZyLscB5G2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b0to01du9i"
+        },
+        {
+          "Name": "label",
+          "Value": "herdtracker.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-25ws3txttEttUoy46/dIws3JM7qe4YDl4ZyLscB5G2Q="
+        }
+      ]
+    },
+    {
+      "Route": "herdtracker.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\herdtracker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"25ws3txttEttUoy46/dIws3JM7qe4YDl4ZyLscB5G2Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-25ws3txttEttUoy46/dIws3JM7qe4YDl4ZyLscB5G2Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.8yux5wr3l0.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\bynqclwtkv-8yux5wr3l0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000551571980"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1812"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8yux5wr3l0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU="
+        }
+      ]
+    },
+    {
+      "Route": "index.8yux5wr3l0.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8yux5wr3l0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU="
+        }
+      ]
+    },
+    {
+      "Route": "index.8yux5wr3l0.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\bynqclwtkv-8yux5wr3l0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8yux5wr3l0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\bynqclwtkv-8yux5wr3l0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000551571980"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1812"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8C9zopEA+b9W1A5nWFkol+TGEjIWB1tFoDb9u5exwrU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\bynqclwtkv-8yux5wr3l0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-il63O5oleY3cLavUWujsJA/3PljfTFzmUoQuQgqrLc4="
+        }
+      ]
+    },
+    {
+      "Route": "marketplace.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\nivu4za7zm-zyorig3otw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000355998576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2808"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE="
+        }
+      ]
+    },
+    {
+      "Route": "marketplace.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\marketplace.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE="
+        }
+      ]
+    },
+    {
+      "Route": "marketplace.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\nivu4za7zm-zyorig3otw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM="
+        }
+      ]
+    },
+    {
+      "Route": "marketplace.zyorig3otw.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\nivu4za7zm-zyorig3otw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000355998576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2808"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyorig3otw"
+        },
+        {
+          "Name": "label",
+          "Value": "marketplace.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE="
+        }
+      ]
+    },
+    {
+      "Route": "marketplace.zyorig3otw.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\marketplace.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyorig3otw"
+        },
+        {
+          "Name": "label",
+          "Value": "marketplace.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K3nb/tnvbfBOiWDH7CoUfdwYTZEirT64NdhyECwazqE="
+        }
+      ]
+    },
+    {
+      "Route": "marketplace.zyorig3otw.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\nivu4za7zm-zyorig3otw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zyorig3otw"
+        },
+        {
+          "Name": "label",
+          "Value": "marketplace.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w8pekLuI8X3pssyn2aWRLjAnCUcY8oUv89Nv2d7E9oM="
+        }
+      ]
+    },
+    {
+      "Route": "smarteartags.959qdvdbpn.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\smarteartags.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7YwQDpMFXe0cd8A3Qu0eV0z0HgAVObQkYBWW46K4Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "959qdvdbpn"
+        },
+        {
+          "Name": "label",
+          "Value": "smarteartags.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7YwQDpMFXe0cd8A3Qu0eV0z0HgAVObQkYBWW46K4Mc="
+        }
+      ]
+    },
+    {
+      "Route": "smarteartags.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\smarteartags.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7YwQDpMFXe0cd8A3Qu0eV0z0HgAVObQkYBWW46K4Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7YwQDpMFXe0cd8A3Qu0eV0z0HgAVObQkYBWW46K4Mc="
+        }
+      ]
+    },
+    {
+      "Route": "soil.fycosn15dn.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\in29ko3l01-fycosn15dn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000420168067"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2379"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fycosn15dn"
+        },
+        {
+          "Name": "label",
+          "Value": "soil.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s="
+        }
+      ]
+    },
+    {
+      "Route": "soil.fycosn15dn.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soil.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fycosn15dn"
+        },
+        {
+          "Name": "label",
+          "Value": "soil.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s="
+        }
+      ]
+    },
+    {
+      "Route": "soil.fycosn15dn.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\in29ko3l01-fycosn15dn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fycosn15dn"
+        },
+        {
+          "Name": "label",
+          "Value": "soil.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0="
+        }
+      ]
+    },
+    {
+      "Route": "soil.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\in29ko3l01-fycosn15dn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000420168067"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2379"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s="
+        }
+      ]
+    },
+    {
+      "Route": "soil.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soil.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l/8SMQcrqfNJ0RZj7DqF/C+mJqZrWRXbIA8aVb3/98s="
+        }
+      ]
+    },
+    {
+      "Route": "soil.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\in29ko3l01-fycosn15dn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SiixGyUUYoO84PQGGIs97OAMcyh3GZnTUwKxymmu+0="
+        }
+      ]
+    },
+    {
+      "Route": "soilsensor.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soilsensor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qn4ulCjDsbsmBT5fcqiTB8Stkvh6mmMyrb3m5ENFe1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qn4ulCjDsbsmBT5fcqiTB8Stkvh6mmMyrb3m5ENFe1A="
+        }
+      ]
+    },
+    {
+      "Route": "soilsensor.ud5kmsemqz.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soilsensor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qn4ulCjDsbsmBT5fcqiTB8Stkvh6mmMyrb3m5ENFe1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ud5kmsemqz"
+        },
+        {
+          "Name": "label",
+          "Value": "soilsensor.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qn4ulCjDsbsmBT5fcqiTB8Stkvh6mmMyrb3m5ENFe1A="
+        }
+      ]
+    },
+    {
+      "Route": "Solarwater.hibz3um13l.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Solarwater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CeA1saqlH0MMpCuhQSrmk8m+tfrlVTRUOwVOBY/wRVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hibz3um13l"
+        },
+        {
+          "Name": "label",
+          "Value": "Solarwater.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CeA1saqlH0MMpCuhQSrmk8m+tfrlVTRUOwVOBY/wRVo="
+        }
+      ]
+    },
+    {
+      "Route": "Solarwater.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Solarwater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CeA1saqlH0MMpCuhQSrmk8m+tfrlVTRUOwVOBY/wRVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CeA1saqlH0MMpCuhQSrmk8m+tfrlVTRUOwVOBY/wRVo="
+        }
+      ]
+    },
+    {
+      "Route": "weather.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\s3rd71tdpo-k9ek2ex8wa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000466200466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2144"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE="
+        }
+      ]
+    },
+    {
+      "Route": "weather.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE="
+        }
+      ]
+    },
+    {
+      "Route": "weather.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\s3rd71tdpo-k9ek2ex8wa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E="
+        }
+      ]
+    },
+    {
+      "Route": "weather.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPgHBdHxS+JrYDPWT6Few6f2GsojrKI5lKz2lnJusms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPgHBdHxS+JrYDPWT6Few6f2GsojrKI5lKz2lnJusms="
+        }
+      ]
+    },
+    {
+      "Route": "weather.k9ek2ex8wa.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\s3rd71tdpo-k9ek2ex8wa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000466200466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2144"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9ek2ex8wa"
+        },
+        {
+          "Name": "label",
+          "Value": "weather.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE="
+        }
+      ]
+    },
+    {
+      "Route": "weather.k9ek2ex8wa.html",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9ek2ex8wa"
+        },
+        {
+          "Name": "label",
+          "Value": "weather.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OM+RM5ObD/oXPQaOQF0eo4at14OQdiRq3pWTzCTG9hE="
+        }
+      ]
+    },
+    {
+      "Route": "weather.k9ek2ex8wa.html.gz",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\obj\\Release\\net9.0\\compressed\\s3rd71tdpo-k9ek2ex8wa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9ek2ex8wa"
+        },
+        {
+          "Name": "label",
+          "Value": "weather.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJMpV4f3I/CMELx/wygzC8h9Q3XXqMVCPP1JbhmcJ2E="
+        }
+      ]
+    },
+    {
+      "Route": "weather.o693b3lybo.jpg",
+      "AssetFile": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QPgHBdHxS+JrYDPWT6Few6f2GsojrKI5lKz2lnJusms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 10:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o693b3lybo"
+        },
+        {
+          "Name": "label",
+          "Value": "weather.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QPgHBdHxS+JrYDPWT6Few6f2GsojrKI5lKz2lnJusms="
+        }
+      ]
+    }
+  ]
+}

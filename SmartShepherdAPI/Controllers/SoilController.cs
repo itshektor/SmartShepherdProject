@@ -51,15 +51,8 @@ namespace SmartShepherdAPI.Controllers
 
             return tools;
         }
-    }
 
-    public class SoilInput
-    {
-        public double ph { get; set; }
-        public double moisture { get; set; }
-        public string cropType { get; set; }
-    }
-    private string PredictCropType(double ph, double moisture)
+        private string PredictCropType(double ph, double moisture)
         {
             if (ph >= 6.0 && ph <= 7.5 && moisture > 60)
                 return "Corn";
@@ -74,5 +67,12 @@ namespace SmartShepherdAPI.Controllers
             else
                 return "Generic Vegetables";
         }
-
     }
+
+    public class SoilInput
+    {
+        public double ph { get; set; }
+        public double moisture { get; set; }
+        public string? cropType { get; set; }
+    }
+}

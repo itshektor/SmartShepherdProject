@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Grey Vintage Farm Logo.jpg",
+      "PackagePath": "staticwebassets\\Grey Vintage Farm Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\Solarwater.jpg",
+      "PackagePath": "staticwebassets\\Solarwater.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\automaticfeed.jpg",
+      "PackagePath": "staticwebassets\\automaticfeed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\drone.jpg",
+      "PackagePath": "staticwebassets\\drone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\farmingbackground.jpg",
+      "PackagePath": "staticwebassets\\farmingbackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\getintouch.jpg",
+      "PackagePath": "staticwebassets\\getintouch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\herdtracker.jpg",
+      "PackagePath": "staticwebassets\\herdtracker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\marketplace.html",
+      "PackagePath": "staticwebassets\\marketplace.html"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\smarteartags.jpg",
+      "PackagePath": "staticwebassets\\smarteartags.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soil.html",
+      "PackagePath": "staticwebassets\\soil.html"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\soilsensor.jpg",
+      "PackagePath": "staticwebassets\\soilsensor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.html",
+      "PackagePath": "staticwebassets\\weather.html"
+    },
+    {
+      "Id": "C:\\Users\\adria\\Source\\Repos\\SmartShepherdProject\\SmartShepherdAPI\\wwwroot\\weather.jpg",
+      "PackagePath": "staticwebassets\\weather.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.SmartShepherdAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.SmartShepherdAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.SmartShepherdAPI.props",
+      "PackagePath": "build\\SmartShepherdAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SmartShepherdAPI.props",
+      "PackagePath": "buildMultiTargeting\\SmartShepherdAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.SmartShepherdAPI.props",
+      "PackagePath": "buildTransitive\\SmartShepherdAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
