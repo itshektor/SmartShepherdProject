@@ -1,0 +1,15 @@
+wwwroot\automaticfeed.jpg
+wwwroot\css\style.css
+wwwroot\drone.jpg
+wwwroot\farmingbackground.jpg
+wwwroot\getintouch.jpg
+wwwroot\Grey Vintage Farm Logo.jpg
+wwwroot\herdtracker.jpg
+wwwroot\index.html
+wwwroot\marketplace.html
+wwwroot\smarteartags.jpg
+wwwroot\soil.html
+wwwroot\soilsensor.jpg
+wwwroot\Solarwater.jpg
+wwwroot\weather.html
+wwwroot\weather.jpg

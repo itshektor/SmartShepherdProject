@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Smart Shepherd | Weather</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #f0f8ff;
+    }
+
+    .main-header {
+      background: #2e7d32;
+      color: #fff;
+      padding: 20px 0;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .main-header .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      margin: auto;
+      padding: 0 20px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo img {
+      height: 40px;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+      padding: 0;
+      margin: 0;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background 0.3s;
+    }
+
+    nav ul li a:hover,
+    nav ul li a.active {
+      background: #1b5e20;
+    }
+
+    .weather-section {
+      padding: 80px 20px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .weather-text h2 {
+      font-size: 2.5rem;
+      color: #2e7d32;
+    }
+
+    .weather-text p {
+      font-size: 1.1rem;
+      color: #444;
+      margin: 10px 0 20px;
+    }
+
+    .btn-weather {
+      padding: 12px 30px;
+      background-color: #2e7d32;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    .btn-weather:hover {
+      background-color: #1b5e20;
+    }
+
+    #forecastResult {
+      margin-top: 40px;
+      padding: 25px;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.3);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+      max-width: 360px;
+      width: 90%;
+      color: #2e7d32;
+    }
+
+    #forecastResult h3 {
+      font-size: 1.6rem;
+      margin-bottom: 10px;
+    }
+
+    #forecastResult p {
+      font-size: 1.1rem;
+      margin: 6px 0;
+    }
+
+    .main-footer {
+      background-color: #2e7d32;
+      color: white;
+      padding: 40px 20px;
+      margin-top: 80px;
+      text-align: center;
+    }
+
+    .main-footer a {
+      color: #c8e6c9;
+      text-decoration: none;
+    }
+
+    .footer-social a {
+      color: white;
+      margin: 0 10px;
+      font-size: 1.4rem;
+      transition: color 0.3s;
+    }
+
+    .footer-social a:hover {
+      color: #a5d6a7;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="main-header">
+    <div class="container">
+      <div class="logo">
+        <img src="Grey Vintage Farm Logo.jpg" alt="Smart Shepherd Logo"/>
+        <h1>Smart Shepherd</h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="marketplace.html">Marketplace</a></li>
+          <li><a href="soil.html">Soil Sensor</a></li>
+          <li><a class="active" href="weather.html">Weather</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="weather-section">
+    <div class="weather-text">
+      <h2>Smart Weather Station</h2>
+      <p>Get accurate weather updates based on your location, powered by OpenWeatherMap. Stay informed and plan your day better!</p>
+      <button class="btn-weather" onclick="getWeather()">📍 Get My Weather</button>
+    </div>
+    <div id="forecastResult"></div>
+  </section>
+
+  <footer class="main-footer">
+    <p>&copy; 2025 Smart Shepherd. All rights reserved.</p>
+    <p>Contact: <a href="mailto:support@smart-shepherd.com">support@smart-shepherd.com</a></p>
+    <div class="footer-social">
+      <a href="#"><i class="fab fa-facebook"></i></a>
+      <a href="#"><i class="fab fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-instagram"></i></a>
+    </div>
+  </footer>
+
+  <script>
+    const API_KEY = "d803cecb2610c9d00ded26871ca64227";
+
+    function getWeatherEmoji(description) {
+      description = description.toLowerCase();
+      if (description.includes("clear")) return "☀️";
+      if (description.includes("cloud")) return "☁️";
+      if (description.includes("rain")) return "🌧️";
+      if (description.includes("snow")) return "❄️";
+      if (description.includes("storm")) return "⛈️";
+      if (description.includes("mist") || description.includes("fog")) return "🌫️";
+      return "🌡️";
+    }
+
+    function getWeather() {
+      if (!navigator.geolocation) {
+        alert("Geolocation not supported.");
+        return;
+      }
+
+      navigator.geolocation.getCurrentPosition(async position => {
+        const lat = position.coords.latitude;
+        const lon = position.coords.longitude;
+
+        try {
+          const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=metric&appid=${API_KEY}`);
+          const data = await res.json();
+
+          const temp = data.main.temp;
+          const desc = data.weather[0].description;
+          const city = data.name;
+          const emoji = getWeatherEmoji(desc);
+
+          document.getElementById('forecastResult').innerHTML = `
+            <h3>${emoji} ${city}</h3>
+            <p><strong>${desc.toUpperCase()}</strong></p>
+            <p>🌡️ Temperature: ${temp}°C</p>
+          `;
+        } catch (error) {
+          document.getElementById('forecastResult').innerText = "❌ Failed to fetch weather data.";
+        }
+      }, () => {
+        alert("Failed to get your location.");
+      });
+    }
+  </script>
+</body>
+</html>
